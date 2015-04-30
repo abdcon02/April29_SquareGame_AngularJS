@@ -1,4 +1,4 @@
-# Square Chase Game for Epicodus
+# Squid Chase Game for Epicodus
 
 ### Connor Abdelnoor & Tom Mertz & Tanner Heffner
 
